@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="tirar travamento assista ! pode ser qualquer vpn pago" tvg-logo="" group-title="General Movies",tirar travamento assista ! pode ser qualquer vpn pago
+http://158.69.20.30:27015/movie/teste/17/59.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Cultura HD" tvg-logo="http://www2.tvcultura.com.br/roteiro/tvcultura.jpg" group-title="Abertos",Cultura HD
+http://158.69.20.30:27015/live/teste/17/51.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sbt HD" tvg-logo="https://telinhadatv.files.wordpress.com/2012/07/sbt.jpg" group-title="Abertos",Sbt HD
+http://158.69.20.30:27015/live/teste/17/7.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sbt FHD" tvg-logo="https://www.otvfoco.com.br/wp-content/uploads/2016/04/logo-sbt.png" group-title="Abertos",Sbt FHD
+http://158.69.20.30:27015/live/teste/17/8.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" group-title="Abertos",Globo HD
+http://158.69.20.30:27015/live/teste/17/9.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo FHD" tvg-logo="" group-title="General Streams",Globo FHD
+http://158.69.20.30:27015/live/teste/17/67.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Record HD" tvg-logo="http://gps.pezquiza.com/wp-content/uploads/2012/03/record-hd.png" group-title="Abertos",Record HD
+http://158.69.20.30:27015/live/teste/17/69.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Gazeta HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="Abertos",Gazeta HD
+http://158.69.20.30:27015/live/teste/17/11.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Band HD" tvg-logo="https://1.bp.blogspot.com/-7HBlbfX_c_w/Vz5wqyg2KrI/AAAAAAAAAf8/9Za6jhkZn1sNjOOZkj8zUlvUpn5uZ81zgCLcB/s1600/Band%2BHD%2BStarone%2BC2.png" group-title="Abertos",Band HD
+http://158.69.20.30:27015/live/teste/17/70.ts
+#EXTINF:-1 tvg-ID="" tvg-name="mtv" tvg-logo="http://thatgrapejuice.net/wp-content/uploads/2016/04/mtv-logo-2016.jpg" group-title="Abertos",mtv
+http://158.69.20.30:27015/live/teste/17/74.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="Esportes",Fox Sports HD
+http://158.69.20.30:27015/live/teste/17/12.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports HD 2" tvg-logo="https://www.lyngsat-logo.com/hires/ff/fox_sports_au_2.png" group-title="Esportes",Fox Sports HD 2
+http://158.69.20.30:27015/live/teste/17/77.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sportv HD" tvg-logo="https://s2.glbimg.com/slg_zh7ux4bcKad0jfhoj0Ikn0o=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/e2/e6/93b93c34bd95b28979fa77a2c983.png" group-title="Esportes",Sportv HD
+http://158.69.20.30:27015/live/teste/17/14.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sportv HD 2" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv2.png" group-title="Esportes",Sportv HD 2
+http://158.69.20.30:27015/live/teste/17/79.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sportv HD 3" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv3.png" group-title="Esportes",Sportv HD 3
+http://158.69.20.30:27015/live/teste/17/80.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Combate HD" tvg-logo="http://s2.glbimg.com/TfXn94TjmRST2adG-j3UZThdqAm10Gno31knwVaJZiJ6-ePE8pH-bElg6OLsr_i0/i.glbimg.com/og/ig/infoglobo1/f/original/2015/05/27/combate-1335570161.jpg" group-title="",Combate HD
+http://158.69.20.30:27015/live/teste/17/75.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Record Goias SD" tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2016/11/Record-Goi%C3%A1s.png" group-title="Abertos",Record Goias SD
+http://158.69.20.30:27015/live/teste/17/54.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premier 1 SD" tvg-logo="https://3.bp.blogspot.com/-_IPjnh7QT-w/VwktP2IelVI/AAAAAAAAIfc/WgMPxGEGf3wUvHUNGCZPQFej9umOvoyng/s1600/123.jpg" group-title="",Premier 1 SD
+http://158.69.20.30:27015/live/teste/17/16.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premier Futebol HD 1" tvg-logo="https://3.bp.blogspot.com/-_IPjnh7QT-w/VwktP2IelVI/AAAAAAAAIfc/WgMPxGEGf3wUvHUNGCZPQFej9umOvoyng/s1600/123.jpg" group-title="Esportes",Premier Futebol HD 1
+http://158.69.20.30:27015/live/teste/17/15.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Pfc HD 2" tvg-logo="http://cdn4.vendasclarohdtv.com.br/Content/img/canais-claro-tv/esportes/premiere-hd.png" group-title="Esportes",Pfc HD 2
+http://158.69.20.30:27015/live/teste/17/83.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere Futebol 4 SD" tvg-logo="" group-title="",Premiere Futebol 4 SD
+http://158.69.20.30:27015/live/teste/17/66.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere Futebol 4 HD" tvg-logo="https://3.bp.blogspot.com/-_IPjnh7QT-w/VwktP2IelVI/AAAAAAAAIfc/WgMPxGEGf3wUvHUNGCZPQFej9umOvoyng/s1600/123.jpg" group-title="",Premiere Futebol 4 HD
+http://158.69.20.30:27015/live/teste/17/65.ts
+#EXTINF:-1 tvg-ID="" tvg-name="One Tv" tvg-logo="http://legacy.shadowandact.com/wp-content/uploads/2016/11/TV_One_Logo_highres.jpg" group-title="Esportes",One Tv
+http://158.69.20.30:27015/live/teste/17/49.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Gloob HD" tvg-logo="http://koifactory.com/wp-content/uploads/2015/03/12_portfolio_gloob-02_606x342.jpg" group-title="General Streams",Gloob HD
+http://158.69.20.30:27015/live/teste/17/46.ts
+#EXTINF:-1 tvg-ID="" tvg-name="All Sports HD" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2016/03/all-sports.jpg" group-title="Esportes",All Sports HD
+http://158.69.20.30:27015/live/teste/17/47.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rede Tv HD" tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-8jqss2czpjM/UT6QvdAl1rI/AAAAAAAAIco/6bFt8GoyjGU/s1600/redetv%2Bna%2Bclaro%2Btv%2Bquando.jpg" group-title="Abertos",Rede Tv HD
+http://158.69.20.30:27015/live/teste/17/58.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Hbo HD" tvg-logo="https://pmcdeadline2.files.wordpress.com/2012/08/hbo-logo-01-g__120815155443.jpg" group-title="Filmes",Hbo HD
+http://158.69.20.30:27015/live/teste/17/3.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Hbo FHD" tvg-logo="https://pmcdeadline2.files.wordpress.com/2012/08/hbo-logo-01-g__120815155443.jpg" group-title="Filmes",Hbo FHD
+http://158.69.20.30:27015/live/teste/17/4.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Hbo 2 HD" tvg-logo="http://www.tvmagazine.com.br/historiadatvpaga/imagens/mva_combate2002.jpg" group-title="Filmes",Hbo 2 HD
+http://158.69.20.30:27015/live/teste/17/13.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Telecine Premium HD" tvg-logo="https://famososnaweb.com/wp-content/uploads/2014/08/telecine4.jpg" group-title="Filmes",Telecine Premium HD
+http://158.69.20.30:27015/live/teste/17/5.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Telecine Premium  FHD" tvg-logo="https://famososnaweb.com/wp-content/uploads/2014/08/telecine4.jpg" group-title="Filmes",Telecine Premium  FHD
+http://158.69.20.30:27015/live/teste/17/6.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Telecine Action HD" tvg-logo="https://4.bp.blogspot.com/-BsBkDcPGgmM/WA2UfPbpuMI/AAAAAAAAmf0/SZuuq8aRsrUuE_LcFnneTdbCcnyCfPLWQCLcB/s1600/TELECINE.jpg" group-title="Filmes",Telecine Action HD
+http://158.69.20.30:27015/live/teste/17/1.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Telecine Action FHD" tvg-logo="https://i.pinimg.com/originals/04/bc/c9/04bcc9f062ef063e9ca6116eeb749d0f.jpg" group-title="Filmes",Telecine Action FHD
+http://158.69.20.30:27015/live/teste/17/2.ts
+#EXTINF:-1 tvg-ID="Telecine Pipoca HD" tvg-name="Telecine Pipoca  FHD" tvg-logo="http://2.bp.blogspot.com/_9QXw4yvWhUA/TMuQdcpx2EI/AAAAAAAAAUk/VcpAZvt2EpA/s1600/telecine_pipoca_HD_cor.jpg" group-title="Filmes",Telecine Pipoca  FHD
+http://158.69.20.30:27015/live/teste/17/44.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Telecine Pipoca  HD" tvg-logo="https://i.vimeocdn.com/video/94365505_640.jpg" group-title="Filmes",Telecine Pipoca  HD
+http://158.69.20.30:27015/live/teste/17/45.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Premium HD 1" tvg-logo="http://culturageek.com.ar/wp-content/uploads/2016/10/Fox-Premium-Logo-fondo-blanco.jpg" group-title="Filmes",Fox Premium HD 1
+http://158.69.20.30:27015/live/teste/17/86.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Channel HD" tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old-1024x768.png" group-title="Diversos",Discovery Channel HD
+http://158.69.20.30:27015/live/teste/17/72.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Turbo HD" tvg-logo="https://i.vimeocdn.com/video/283602653_1280x720.jpg" group-title="Diversos",Discovery Turbo HD
+http://158.69.20.30:27015/live/teste/17/19.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo News HD" tvg-logo="http://tvonline.plus/wp-content/uploads/2016/04/globonews.png" group-title="Jornalismo",Globo News HD
+http://158.69.20.30:27015/live/teste/17/84.ts
+#EXTINF:-1 tvg-ID="" tvg-name="axn" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo2.jpg" group-title="Diversos",axn
+http://158.69.20.30:27015/live/teste/17/76.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Aljazeera HD" tvg-logo="http://wp.patheos.com.s3.amazonaws.com/blogs/sisterrosemovies/files/2014/05/AJAM-OG.jpeg" group-title="Jornalismo",Aljazeera HD
+http://158.69.20.30:27015/live/teste/17/50.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tve Bahia HD" tvg-logo="http://www.irdeb.ba.gov.br/evolucaohiphop/wp-content/uploads/2014/01/tve.jpg" group-title="Diversos",Tve Bahia HD
+http://158.69.20.30:27015/live/teste/17/41.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Porto Canal HD" tvg-logo="http://marketingportugal.pt/images/uploads/Porto-Canal.jpg" group-title="Diversos",Porto Canal HD
+http://158.69.20.30:27015/live/teste/17/38.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nfl HD" tvg-logo="https://wallpapercave.com/wp/jXLRtK5.jpg" group-title="Esportes",Nfl HD
+http://158.69.20.30:27015/live/teste/17/36.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Mlb HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="Esportes",Mlb HD
+http://158.69.20.30:27015/live/teste/17/37.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Heart Tv HD" tvg-logo="http://www.jumpdesign.co.uk/wp-content/uploads/2014/08/Heart-TV-C-01-600x338.jpg" group-title="Diversos",Heart Tv HD
+http://158.69.20.30:27015/live/teste/17/39.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cali HD" tvg-logo="https://2.bp.blogspot.com/-oJU_Ku2sNYo/V40DFoYPGSI/AAAAAAAAAF8/w9TwoUK5CVkpgJRanvNUv2S_lznufFERACLcB/s1600/Canal%2BCali%2BTV.jpg" group-title="Diversos",Cali HD
+http://158.69.20.30:27015/live/teste/17/33.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bloomberg HD" tvg-logo="https://careers.bloomberg.com/images/bloomberg_sm.jpg" group-title="Jornalismo",Bloomberg HD
+http://158.69.20.30:27015/live/teste/17/34.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Amazon Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/29/Logotipo_da_Amazon_Sat.png" group-title="Diversos",Amazon Sat
+http://158.69.20.30:27015/live/teste/17/43.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Telpin Argentina" tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe_400x400.png" group-title="Diversos",Telpin Argentina
+http://158.69.20.30:27015/live/teste/17/29.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rtl Luxenburgo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTL-Radio-Letzebuerg-Logo.svg/1200px-RTL-Radio-Letzebuerg-Logo.svg.png" group-title="Diversos",Rtl Luxenburgo HD
+http://158.69.20.30:27015/live/teste/17/32.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rede Brasil" tvg-logo="https://portal4.files.wordpress.com/2016/06/rede-brasil-1.jpg" group-title="Diversos",Rede Brasil
+http://158.69.20.30:27015/live/teste/17/23.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Record News Sd" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="Jornalismo",Record News Sd
+http://158.69.20.30:27015/live/teste/17/24.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nhk World HD" tvg-logo="https://wptschedule.org/ulphoto/wpt_1328817746.jpg" group-title="Diversos",Nhk World HD
+http://158.69.20.30:27015/live/teste/17/25.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Mazatlan Mexico" tvg-logo="http://1.bp.blogspot.com/-s9u1kGPKlxs/U-Wdkg_FdmI/AAAAAAAADg8/oRZRH1eWIiY/s1600/mazatlan-7.jpg" group-title="Diversos",Mazatlan Mexico
+http://158.69.20.30:27015/live/teste/17/30.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Das Erste HD" tvg-logo="http://www.daserste.de/specials/ueber-uns/logo-das-erste-108~_v-facebook1200_94f212.jpg" group-title="Diversos",Das Erste HD
+http://158.69.20.30:27015/live/teste/17/31.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cbs News HD" tvg-logo="https://www.cbspressexpress.com/images/releases/docimages/1638/960203-634848/687bce7258392793c6d61c7e2f0f4c51.jpg" group-title="Jornalismo",Cbs News HD
+http://158.69.20.30:27015/live/teste/17/26.ts
+#EXTINF:-1 tvg-ID="" tvg-name="26 Argentina" tvg-logo="https://pbs.twimg.com/profile_images/973622001708552193/iMJ7wjf6.jpg" group-title="Diversos",26 Argentina
+http://158.69.20.30:27015/live/teste/17/28.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Playboy Tv FHD" tvg-logo="http://vercanalestv.com/logos/playboy.png" group-title="Adultos",Playboy Tv FHD
+http://158.69.20.30:27015/live/teste/17/17.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fx HD" tvg-logo="https://images.bwwstatic.com/tvnetworklogos/0F855B7F-EB1F-612D-DC303416DB331F6C.jpg" group-title="Filmes",Fx HD
+http://158.69.20.30:27015/live/teste/17/85.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet HD" tvg-logo="https://4.bp.blogspot.com/-uYiyTHJUcds/V9LxOAHrj8I/AAAAAAAAZHQ/k_EFVA1aIVQmWDSp9nMCdLfDsihS684RwCLcB/s1600/animal-planet-hd-claro-tv.jpg" group-title="General Streams",Animal Planet HD
+http://158.69.20.30:27015/live/teste/17/82.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Playboy HD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2016/08/PLAYBOY-TV-HD.png" group-title="Adultos",Playboy HD
+http://158.69.20.30:27015/live/teste/17/18.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sexy Hot" tvg-logo="http://www.logotypes101.com/logos/90/889B0C359EE90F3FF10CBEB4F749442E/SexyHot.png" group-title="",Sexy Hot
+http://158.69.20.30:27015/live/teste/17/81.ts
